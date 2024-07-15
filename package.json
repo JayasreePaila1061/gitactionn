@@ -1,5 +1,5 @@
 {
-  "name": "@kevinkenneth290300/gitactionn",
+  "name": "github-actions-packages",
   "version": "1.0.0",
   "main": "index.js",
   "publishConfig": {
